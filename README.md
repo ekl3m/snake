@@ -34,35 +34,35 @@ make
 
 ```sh
 Start the game with P button. Once the game starts, control the snake using the following keys:
-	•	Arrow Up: Move up
-	•	Arrow Down: Move down
-	•	Arrow Left: Move left
-	•	Arrow Right: Move right
+• Arrow Up: Move up
+• Arrow Down: Move down
+• Arrow Left: Move left
+• Arrow Right: Move right
 ```
 
 ## Objective:
 
 ```sh
-	•	Guide the snake to eat food (*) to grow.
-	•	Avoid collisions with the snake’s own body.
-	•	The game ends if the snake crashes into itself or eats 50 food pieces.
+• Guide the snake to eat food (*) to grow.
+• Avoid collisions with the snake’s own body.
+• The game ends if the snake crashes into itself or eats 50 food pieces.
 ```
 
 ## Contribution
 
 Follow these guidelines to contribute to the project:
 
-Commit Pattern:
+### Commit Pattern:
 
 Use the format `"VX.X.X : Description of the change"` where `X` is a natural number.
 
-Example:
+### Example:
 
 ```sh
 git commit -m "V0.1.0 : Improved snake movement logic"
 ```
 
-Steps to Contribute:
+### Steps to Contribute:
 
 1.	Fork the repository.
 2.	Create a new branch for your feature or fix:
