@@ -94,5 +94,5 @@ This project is licensed under the Creative Commons BY-NC-ND license to ekl3m. S
 
 For questions or support, feel free to reach out:
 
-• Email: sq.programs@gmail.com
-• GitHub: ekl3m
+- Email: sq.programs@gmail.com
+- GitHub: ekl3m
