@@ -18,9 +18,7 @@ git clone https://github.com/ekl3m/snake.git
 cd snake
 ```
 
-3. Build the Game
-
-Make sure you have a C++ compiler installed (e.g., g++). Compile the game using the following command:
+3. Build the Game `(Make sure you have a C++ compiler installed (e.g., g++). Compile the game using the following command:)`
 
 ```sh
 make
