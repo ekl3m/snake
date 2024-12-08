@@ -18,7 +18,7 @@ git clone https://github.com/ekl3m/snake.git
 cd snake
 ```
 
-3. Build the Game `(Make sure you have a C++ compiler installed (e.g., g++). Compile the game using the following command:)`
+3. Build the Game
 
 ```sh
 make
@@ -32,17 +32,21 @@ make
 
 ## Usage
 
+```sh
 Start the game with P button. Once the game starts, control the snake using the following keys:
 	•	Arrow Up: Move up
 	•	Arrow Down: Move down
 	•	Arrow Left: Move left
 	•	Arrow Right: Move right
+```
 
 ## Objective:
 
+```sh
 	•	Guide the snake to eat food (*) to grow.
 	•	Avoid collisions with the snake’s own body.
 	•	The game ends if the snake crashes into itself or eats 50 food pieces.
+```
 
 ## Contribution
 
